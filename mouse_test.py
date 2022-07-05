@@ -1,8 +1,9 @@
 import imp
-import pyautogui,sys
+import pyautogui,sys,clock
+
 
 print('press ctrl-c to quit')
-
+print("current time is ",clock.now())
 try:
     while True:
         x,y=pyautogui.position()
