@@ -11,4 +11,5 @@ https://pyautogui.readthedocs.io/en/latest/mouse.html <br>
 https://qiita.com/konitech913/items/61dc715ddaad54505a29 <br>
 https://nonbiri3.com/?p=2120 <br>
 https://fuji-pocketbook.net/pysimplegui/#toc6 <br>
-https://pysimplegui.readthedocs.io/en/latest/cookbook/
+https://pysimplegui.readthedocs.io/en/latest/cookbook/ <br>
+https://zenn.dev/kiduki/articles/first-step-pysimplegui <br>
