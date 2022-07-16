@@ -13,4 +13,5 @@ https://nonbiri3.com/?p=2120 <br>
 https://fuji-pocketbook.net/pysimplegui/#toc6 <br>
 https://pysimplegui.readthedocs.io/en/latest/cookbook/ <br>
 https://zenn.dev/kiduki/articles/first-step-pysimplegui <br>
-https://qiita.com/Gyutan/items/2c61159a19073b19012b
+https://qiita.com/Gyutan/items/2c61159a19073b19012b <br>
+https://camp.trainocate.co.jp/magazine/pyinstaller-python-exe/

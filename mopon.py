@@ -1,10 +1,10 @@
 import PySimpleGUI as psg
 import pyautogui as pag
 
-psg.theme('DarkBrown3')
+psg.theme('TealMono')
 
-layout=[[psg.Text('',key='-XP-',font=('',20))],
-        [psg.Text('',key='-YP-',font=('',20))],
+layout=[[psg.Text('',key='-XP-',font=('',20),text_color='white')],
+        [psg.Text('',key='-YP-',font=('',20),text_color='white')],
         [psg.Button('exit',size=(10,3))]
 ]
 
@@ -17,9 +17,9 @@ while True:
     xStr="X: " + str(x).rjust(4)
     yStr="Y: " + str(y).rjust(4)
     #reading window info
-    #update position infomation per 10ms
+    #updating position infomation per 10ms
     event,values=wnd.read(timeout=10,timeout_key='-timeout-')
-    #if click exit button
+    #if  exit button clicked
     if event in (psg.WIN_CLOSED,'exit'):
         break
     #updating position
